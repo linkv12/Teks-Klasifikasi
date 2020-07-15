@@ -1,0 +1,172 @@
+
+# Dipake dalam kode
+# Stemming Bahasa Indonesia menggunakan library 
+Sastrawi Python -> pySastrawi
+pip install PySastrawi
+https://github.com/har07/PySastrawi
+
+# scikit
+https://scikit-learn.org/stable/about.html#citing-scikit-learn
+
+
+# referensi
+# corpus
+###### Kompas + Tempo
+https://ilps.science.uva.nl/resources/bahasa/ 
+Details about the development of those resources and their usage for evaluation purposes can be found in the following publications:
+
+    F.Z. Tala, A Study of Stemming Effects on Information
+    Retrieval in Bahasa Indonesia, M.Sc. Thesis, University of
+    Amsterdam, 2003
+    F. Tala, J. Kamps, K. Müller, and M. de Rijke. The Impact of Stemming on Information Retrieval in Bahasa Indonesia (Abstract). In: 14th Meeting of Computational Linguistics in the Netherlands (CLIN-2003), 2003.
+
+If you use these resources, please let us know. If you publish results obtained using the resources made available here, please cite the Tala, Kamps, Müller and de Rijke paper listed above.
+##########
+https://hal.inria.fr/hal-02148693 -> cite for oscar
+https://oscar-corpus.com/ -> 16 GB dedup_data
+
+# lexicon
+kateglo.com
+
+
+# permasalah dalam stemming bahasa indonesia
+https://medium.com/@geovedi/karena-data-gak-mungkin-bohong-a17ff90cef87
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1:47
+Hoo hoot! Little Link... Look up here!
+
+It appears that the time has finally come for you to start your adventure!
+
+You will encounter many hardships ahead...
+
+Like playing with your Legos one day and realizing its not fun anymore.
+
+Coming to grips with concept of time.
+
+Gradually losing the freedom which exists in knowing nothing.
+
+And learning that your friends are relative to where you are in life.
+
+Most friends only stay for a season and usually because of your ahared interests.
+
+But when you move on or your priorities change, so will a majority of your friends.
+
+That is your fate.
+
+Don't feel discouraged, even during the toughest times!
+
+1:49
+One day you'll find out that you owe the IRS $3,000.
+
+Then realize you misread the letter and you actually owe $30,000.
+
+And you'll learn that Chipotle isn't nearly as healthy as you thought
+
+Sure they list the calories, fat, carbs, cholesterol and the 0g of sugar on the menu but they omit the amount of sodium drenched in everything. A single burrito with carnitas, cilantro-lime rice, sour cream, roasted chili corn salsa and cheese will fill you up with almost a day's worth of sodium.
+
+Enjoy your high blood pressure, stroke, heart failure, osteoporosis, stomach cancer, kidney disease, kidney stones and headaches. Mabye this isn't that great of an alternative to McDonalds after all.
+
+Convenience isn't very healthy.
+
+You have to eat 3 times a day for the rest of your life. You should learn how to do it well.
+
+You'd be surprised to see how much better your life goes when you eat well.
+
+That is your fate.
+
+Don't feel discourage, even the toughest times!
+
+1:54
+And learning that, despite all the government gorges out of you with taxes, they still waste billions of our hard earned dollars on programs like studying mountain lions on treadmills, injecting hamsters with steroids and making them fight, studying beer koozies.
+
+Beer koozies.
+
+The thing that keeps your drink cold. The $1.3 million dollar study conducted by 2 bright University of Washington students was to determine if beer koozies work.
+
+It turns out they do work. Groundbreaking stuff.
+
+Then there's accidentally spending $28 million on green camouflage uniforms for the Afghan National Army.
+
+Afghanistan is 98 percent desert.
+
+They wasted $2 million attempting to increase trust between Tunisian political parties and citizens.
+
+$10,000,000 on "green growth" in Peru.
+
+$2,120,040,355,35 attempting to turn and abandoned mental hospital into a Department of Homeland Security HQ.
+
+And don't even get me started on the billion dollar Medicare schemes.
+
+Centers for Medicare and Medicaid paid $48,000,000,000.00 in improper payments in Fiscal Year 2018.
+
+Since Medicare is such big program, it opens up all sorts of possibilities for abuse.
+
+It's all in Dr. Rand Paul's Summer 2019 Edition of "The Waste Report."
+
+1:58
+Go straight this way and you will see Hyrule Castle.
+
+You will meet a princess there...
+
+If you are lost and don't know which way to go, look at the Map.
+
+The areas you have explored will be shown on the map.
+
+A map is a diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc. The word "map" can also be used to talk about a chart ot drawing that shows relationships between ideas, people, events, or anything else you can think about.
+
+Press START to enter the subscreens and Z or R to find the map.
+
+On the map subscreen, you will also see a flashing dot showing you which way to go next.
+
+Did you get all that?
+> No
+   Yes
+
+1:47 dialogue box.
+
+2:00 (this is the fastest part even in 0.25 speed)
+Did you know the hashtag symbol is technically called an octothorpe?
+
+Or that the 100 folds in a chef's hat represent 100 ways to cook an egg?
+
+And that some cats are allergic to people?
+
+And that M&M stands for Mars and Murrie?
+
+And that you can hear a blue whale's heartbeat from more than 2 miles away?
+
+And that the odds of getting royal flush are exactly 1 in 649,740?
+
+And that the lyrebird can mimic almost any sounds it hears including chainsaws?
+
+And that the speed of a computer mouse is measured in "Mickeys?"
+
+And did you know that sushi actually originated in Southeast Asia, and spread to South China before being introduced to Japan some time around the 8th century?
+
+And did you know that a male emperor penguin can go without eating for 120 days?
+
+And did you know that the smell you smell after it rains is called "petichor?"
+
+End of 1:47 - 2:02
+

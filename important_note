@@ -1,0 +1,3 @@
+vektorize katanya
+refference : https://github.com/idwira/klasifikasi-teks/blob/master/tweets_naivebayes_final.ipynb
+from sklearn.feature_extraction.text import TfidfVectorizer
